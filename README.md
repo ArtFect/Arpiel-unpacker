@@ -5,7 +5,7 @@
 ## How to use?
 1. Install [Node.js](http://nodejs.org "Node.js")
 2. Download repository, extract files to folder
-3. Put the Data folder with .ncf files in the repository folder
+3. Put the Data folder with .ncf files in the tool folder
 4. Open command line in folder and run `node unpack.js`
 
 or
