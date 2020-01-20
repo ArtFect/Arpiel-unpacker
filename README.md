@@ -1,7 +1,6 @@
 # Arpiel unpacker
 
  Tool to unpack .ncf files of the game Ar:piel online (アルピエル, Arpiel)
- 
 ## How to use?
 1. Install [Node.js](http://nodejs.org "Node.js")
 2. Download repository, extract files to folder
@@ -14,6 +13,7 @@ or
 [*Files from Japanese server on 22.09.2019*](https://www.mediafire.com/file/v41wwqjp717t9s8/ArpielUnpacked.zip/file "*Files from Japanese server on 22.09.2019*")
 
 ## How to convert Arpiel .gr2 models to other formats
+<img src="https://i.imgur.com/vKEtcRa.png" width="191" height="320">
 
 Firstly you can view the models before converting them using gr2 viewer:  
 https://forums.civfanatics.com/resources/granny-viewer-2-8-45-0.21206/
